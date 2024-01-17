@@ -28,6 +28,9 @@ I'm actively contributing to [Brizy.cloud](https://www.brizy.cloud/), a revoluti
 - 🌱 I believe in the power of continuous learning and improvement.
 
 ## My Stats
-[![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxval1)](https://github.com/maxval1/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxval1&layout=compact)
+<p>
+  <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maxval1&count_private=true&theme=dark"/>&nbsp;&nbsp;
+  <img height="175" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxval1&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat. Happy coding! 🚀
